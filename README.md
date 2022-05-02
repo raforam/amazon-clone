@@ -9,8 +9,9 @@ Integrantes:
 
 Instrucciones de uso:
 Requerimientos: 
-- Instalar xampp
-- Copiar las carpetas htdocs y mysql del winrar en la carpeta en C:\xampp o donde lo tenga instalado
+- Instalar xampp (Poner check en la cajita o instalar Apache y MySQL en XAMPP Control Panel)
+- Descargar xampp.rar
+- Copiar las carpetas htdocs y mysql de 'xampp.rar' en la carpeta en C:\xampp o donde lo tenga instalado
 - Activar apache y mySQL en el XAMPP Control Panel
 - Abrir en el navegador: localhost/formulario/register.php
 
