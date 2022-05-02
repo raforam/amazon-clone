@@ -1,12 +1,26 @@
-# amazon-clone
-Amazon clone website
+# Formulario Register - Login funcional + Database
 
 Integrantes:
-1. Melendez Flores, Rodrigo Del Piero
-2. Ramirez Quiroz, Leonardo Alonso
-3. Ramirez Quiroz, Rafael Alejandro
-4. Riguetti Palomino, Fabrizio Sebastian
-5. Zegarra Zenteno, Diego Enrique
+- Fabrizio Sebastian Riguetti Palomino
+- Rafael Alejandro Ramirez Quiroz
+- Rodrigo del Piero Melendez Flores
+- Diego Enrique Zegarra Zenteno
+- Leonardo Alonso Ramirez Quiroz
+
+Instrucciones de uso:
+Requerimientos: 
+- Instalar xampp
+- Copiar las carpetas htdocs y mysql del winrar en la carpeta en C:\xampp o donde lo tenga instalado
+- Activar apache y mySQL en el XAMPP Control Panel
+- Abrir en el navegador: localhost/formulario/register.php
+
+En la página register se creará un usuario para la base de datos al ingresar todos los datos correspondientes y presionar el botón enviar. Acto seguido será enviado a la página del login, de misma forma si ya tiene una cuenta puede pasar a la misma página.
+En la página del login podrá ingresar los datos de una cuenta registrada en la base de datos, caso contrario le saldrá un mensaje "Error de autentificación", solo podrá intentar loggearse si cumple con la especificación dada.
+Una vez loggeado será llevado a la página principal de amzon, en la barra de arriba dirá hola + su nombre de usuario.
+
+
+# amazon-clone (html-css only)
+Amazon clone website
 
 Para interactuar con las distintas páginas entre primero a 'main_menu.html'
 
