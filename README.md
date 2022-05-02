@@ -17,7 +17,7 @@ Requerimientos:
 En la página register se creará un usuario para la base de datos al ingresar todos los datos correspondientes y presionar el botón enviar. Acto seguido será enviado a la página del login, de misma forma si ya tiene una cuenta puede pasar a la misma página.
 En la página del login podrá ingresar los datos de una cuenta registrada en la base de datos, caso contrario le saldrá un mensaje "Error de autentificación", solo podrá intentar loggearse si cumple con la especificación dada.
 Una vez loggeado será llevado a la página principal de amzon, en la barra de arriba dirá hola + su nombre de usuario.
-
+<p>Si desea ver todos los usuarios registrados en la base de datos ingresar a localhost/persona.php</p>
 
 # amazon-clone (html-css only)
 Amazon clone website
