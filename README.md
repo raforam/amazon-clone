@@ -7,6 +7,8 @@ Integrantes:
 - Diego Enrique Zegarra Zenteno
 - Leonardo Alonso Ramirez Quiroz
 
+Link de la versión 2 (20-05-2022) porque es muy pesado: https://www.mediafire.com/file/qbzcx7yfhxvoubt/xampp_v2.rar/file
+
 Instrucciones de uso:
 Requerimientos: 
 - Instalar xampp (Poner check en la cajita o instalar Apache y MySQL en XAMPP Control Panel)
