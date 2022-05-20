@@ -1,3 +1,5 @@
+Link de la versión 2 (20-05-2022) porque es muy pesado: https://www.mediafire.com/file/p5var7bij6kcy3a/xampp_v3_20-05-2022.rar/file
+
 # Formulario Register - Login funcional + Database
 
 Integrantes:
@@ -7,7 +9,6 @@ Integrantes:
 - Diego Enrique Zegarra Zenteno
 - Leonardo Alonso Ramirez Quiroz
 
-Link de la versión 2 (20-05-2022) porque es muy pesado: https://www.mediafire.com/file/qbzcx7yfhxvoubt/xampp_v2.rar/file
 
 Instrucciones de uso:
 Requerimientos: 
