@@ -2,7 +2,7 @@
 https://github.com/raforam/UCSP_Amazon
 
 
-Link de la versión 2 (20-05-2022) porque es muy pesado: https://www.mediafire.com/file/p5var7bij6kcy3a/xampp_v3_20-05-2022.rar/file
+Link de la versión 0.2 (20-05-2022) porque es muy pesado: https://www.mediafire.com/file/p5var7bij6kcy3a/xampp_v3_20-05-2022.rar/file
 
 # Formulario Register - Login funcional + Database
 
